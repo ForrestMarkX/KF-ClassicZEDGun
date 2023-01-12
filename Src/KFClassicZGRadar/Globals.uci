@@ -1,0 +1,1 @@
+`define Print(log) LocalPlayer(class'WorldInfo'.static.GetWorldInfo().GetALocalPlayerController().Player).ViewportClient.ViewportConsole.OutputText(`log)
